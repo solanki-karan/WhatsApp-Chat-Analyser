@@ -1,0 +1,1 @@
+Chat Analyser is a tool that turns WhatsApp chat exports into meaningful insights. By analyzing conversations, it highlights message patterns, activity timelines, word usage, and user interactions—making it easy to understand group dynamics or personal communication trends through simple visuals and statistics.
